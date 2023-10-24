@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qaMeTDmda6yPdUu1SWBcHwQsCrbqRMCCuEdPXhBc1+Q=",
+  "Source": "ZadacaWebApi",
+  "BasePath": "_content/ZadacaWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

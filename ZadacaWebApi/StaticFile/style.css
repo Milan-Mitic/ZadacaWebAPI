@@ -1,0 +1,40 @@
+﻿body {
+    background-color:lightgrey;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    font-size:30px;
+    color:crimson
+}
+
+button {
+    border-radius: 5px;
+    width: 150px;
+    padding:5px;
+}
+
+button:hover {
+    background-color:darkkhaki;
+}
+
+.container {
+    position: absolute;
+    border:solid 3px black;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color:gold;
+    width:350px;
+    height:200px;
+    padding: 50px;
+    border-radius:10px;
+}
+
+input{
+    padding:5px;
+}
+
+input::placeholder{
+    font-style:italic;
+}
